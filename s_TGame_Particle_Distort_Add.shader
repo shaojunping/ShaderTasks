@@ -34,7 +34,6 @@ Shader "TGame/Particles/Distort_Additive"
             Tags { "LightMode"="ForwardBase" }
 
             Blend One One
-            Cull Off
             ZWrite Off
             
             CGPROGRAM
